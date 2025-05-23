@@ -1,4 +1,4 @@
-# osintss2
+# OSSINTSS2
 
 **osintss2** je vysoko výkonná, modulárna platforma navrhnutá pre sofistikované zhromažďovanie informácií a hĺbkovú analýzu zo širokého spektra otvorených zdrojov. Je postavená na jazyku Rust, pričom prioritou je spoľahlivosť, rýchlosť a rozšíriteľnosť pre náročné dátové operácie.
 
