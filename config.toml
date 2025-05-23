@@ -1,0 +1,21 @@
+[api_keys]
+orsr = ""
+zr = ""
+vies = ""
+whois = ""
+
+[modules]
+orsr = true
+zr = true
+vies = true
+whois = true
+
+[db]
+neo4j_url = "bolt://localhost:7687"
+elasticsearch_url = "http://localhost:9200"
+
+[ai]
+enabled = false
+onnx_model_path = ""
+python_script_path = ""
+language = "sk"
